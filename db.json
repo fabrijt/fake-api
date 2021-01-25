@@ -1,59 +1,59 @@
 {
   "museums": [
     {
-      "name": "Gino Paui",
-      "description": "Questo è Gino Paui",
-      "schedule": "Dal lunedì al venerdì",
+      "name": "Polo culturale di Tolfa",
+      "description": "Il Polo Culturale di Tolfa, comprendente il Museo civico archeologico, la biblioteca comunale, l’Archivio storico comunale, il laboratorio di restauro e la sala conferenze, è ospitato nei locali del convento dei Padri Agostiniani, annesso al santuario di Santa Maria della Sughera.",
+      "schedule": "Lunedì e Martedì: Chiuso\nMercoledì e Giovedì : 9:00 – 13:00\nVenerdì: 9:00 – 13:00 | 14:00 – 17:00\nSabato: 10:00 – 13:00 | 14:00 – 17:00\nDomenica: 10:00 – 13:00",
       "phone": "3427681123",
-      "address": "Via Fasulla, 123",
-      "email": "gino@libero.it",
-      "image": "startmag.it/wp-content/uploads/Google-1.jpg"
+      "address": "Largo XV Marzo 1799 Tolfa (RM)",
+      "email": "poloculturaletolfa@gmail.com",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
     {
-      "name": "Laurenzo Carlos",
-      "description": "Questo e' Laurenzo Carlos",
-      "schedule": "Dal sabato alla domenica",
-      "phone": "3474512311",
-      "address": "Via Gilberto, 324",
-      "email": "lorenzo@hotmail.com",
-      "image": "https://www.iodonna.it/wp-content/uploads/2020/12/Doodle-Google.png"
+      "name": "Terme Taurine di Traiano",
+      "description": "Il complesso termale delle Terme Taurine sorge a circa 4 km a est della città di Civitavecchia, su un altopiano (altezza massima 192 m s.l.m.) situato lungo la strada per Tolfa e Allumiere. Il complesso acrhitettonico si estende un’area totale di circa 80 x 200 m, con orientamento approssimatamente nord-sud.",
+      "schedule": "Aperto dal lunedì al venerdì dalle ore 10:00 alle 18:00",
+      "phone": "3272699665",
+      "address": "Via Terme di Traiano, 00053 Civitavecchia (RM)",
+      "email": "terme@hotmail.com",
+      "image": "https://1.bp.blogspot.com/-2b5E--rcAAI/XTlfNus6FCI/AAAAAAAAvPA/3JIUmmynmIMf1qdFm8SMawEfa_Y2VtuIwCLcBGAs/s1600/terme-taurine1.jpg"
     }
   ],
   "paths": [
     {
       "name": "Completo",
-      "duration": "Durata di 3 ore",
-      "description": "Tour Completo"
+      "duration": "durata 3 ore",
+      "description": "Tutte le opere del museo, se ti piace approfondire."
     },
     {
       "name": "Veloce",
-      "duration": "Durata di 1 ore",
-      "description": "Tour Veloce"
+      "duration": "durata 1 ora",
+      "description": "Solo le opere principali, se vuoi ottimizzare il tuo tempo."
     }
   ],
   "steps": [
     {
-      "name": "Inciucio",
+      "name": "Il polo culturale",
       "position": 1,
-      "image": "https://www.gochange.it/wp-content/uploads/2020/10/maxresdefault-1.jpg"
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
     {
-      "name": "Quisquillie",
+      "name": "Calice in bucchero",
       "position": 2,
-      "image": "https://motori.ilgiornale.it/wp-content/uploads/2020/09/Google-annulla-le-sue-famigerate-battute-di-pesce-d39aprile-quest39anno.jpg"
+      "image": "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg"
     }
   ],
   "opera": [
     {
-      "name": "Inciucio",
-      "description": "Questa è la descrizione di inciucio",
+      "name": "Il polo culturale",
+      "description": "Questa è la descrizione della prima tappa introduttiva al Polo Culturale di Tolfa",
       "period": "Fine XV secolo",
       "qrcode": "kjnskdjcnks",
       "beaconid": "jncnjksd",
       "gallery": [
-        "https://i1.wp.com/visibilita.net/wp-content/uploads/2020/01/google-immagini.jpg?fit=810%2C588",
-        "https://images.wired.it/wp-content/uploads/2020/11/05113657/vecchie-icone-google.png",
-        "https://www.apple.com/newsroom/images/values/corporate/Apple_google-partner-on-covid-19-contact-tracing-technology_04102020_LP_hero.jpg.og.jpg"
+        "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
+        "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
       ]
     }
   ]
