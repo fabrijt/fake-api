@@ -23,12 +23,12 @@
     {
       "name": "Completo",
       "duration": "durata 3 ore",
-      "description": "Tutte le opere del museo, se ti piace approfondire."
+      "description": "Tutte le opere del museo, \nse ti piace approfondire."
     },
     {
       "name": "Veloce",
       "duration": "durata 1 ora",
-      "description": "Solo le opere principali, se vuoi ottimizzare il tuo tempo."
+      "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
     }
   ],
   "steps": [
