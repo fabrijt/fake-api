@@ -1,0 +1,60 @@
+{
+  "museums": [
+    {
+      "name": "Gino Paui",
+      "description": "Questo è Gino Paui",
+      "schedule": "Dal lunedì al venerdì",
+      "phone": "3427681123",
+      "address": "Via Fasulla, 123",
+      "email": "gino@libero.it",
+      "image": "startmag.it/wp-content/uploads/Google-1.jpg"
+    },
+    {
+      "name": "Laurenzo Carlos",
+      "description": "Questo e' Laurenzo Carlos",
+      "schedule": "Dal sabato alla domenica",
+      "phone": "3474512311",
+      "address": "Via Gilberto, 324",
+      "email": "lorenzo@hotmail.com",
+      "image": "https://www.iodonna.it/wp-content/uploads/2020/12/Doodle-Google.png"
+    }
+  ],
+  "paths": [
+    {
+      "name": "Completo",
+      "duration": "Durata di 3 ore",
+      "description": "Tour Completo"
+    },
+    {
+      "name": "Veloce",
+      "duration": "Durata di 1 ore",
+      "description": "Tour Veloce"
+    }
+  ],
+  "steps": [
+    {
+      "name": "Inciucio",
+      "position": 1,
+      "image": "https://www.gochange.it/wp-content/uploads/2020/10/maxresdefault-1.jpg"
+    },
+    {
+      "name": "Quisquillie",
+      "position": 2,
+      "image": "https://motori.ilgiornale.it/wp-content/uploads/2020/09/Google-annulla-le-sue-famigerate-battute-di-pesce-d39aprile-quest39anno.jpg"
+    }
+  ],
+  "opera": [
+    {
+      "name": "Inciucio",
+      "description": "Questa è la descrizione di inciucio",
+      "period": "Fine XV secolo",
+      "qrcode": "kjnskdjcnks",
+      "beaconid": "jncnjksd",
+      "gallery": [
+        "https://i1.wp.com/visibilita.net/wp-content/uploads/2020/01/google-immagini.jpg?fit=810%2C588",
+        "https://images.wired.it/wp-content/uploads/2020/11/05113657/vecchie-icone-google.png",
+        "https://www.apple.com/newsroom/images/values/corporate/Apple_google-partner-on-covid-19-contact-tracing-technology_04102020_LP_hero.jpg.og.jpg"
+      ]
+    }
+  ]
+}
