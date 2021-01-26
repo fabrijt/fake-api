@@ -34,64 +34,52 @@
   "steps": [
     {
       "name": "Il polo culturale",
-      "id": 1,
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
-	  "opera": 
-		{
-		  "name": "Il polo culturale",
-		  "description": "Questa è la descrizione della prima tappa introduttiva al Polo Culturale di Tolfa",
-		  "period": "Fine XV secolo",
-		  "qrcode": "1111",
-		  "beaconid": "1.1",
-		  "gallery": [
-			"https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
-			"https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
-			"https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
-		  ]
-		}
+      "position": 1,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
     {
       "name": "Calice in bucchero",
-      "id": 2,
-      "image": "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
-	  "opera": 
-		{
-		  "name": "Calice in bucchero",
-		  "description": "Questa è la descrizione della seconda tappa",
-		  "period": "Fine XV secolo",
-		  "qrcode": "2222",
-		  "beaconid": "1.2",
-		  "gallery": [
-			"https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
-			"https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
-			"https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
-		  ]
-		}
+      "position": 2,
+      "image": "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg"
     },
 	{
       "name": "Necropoli del Ferrone",
-      "id": 3,
+      "position": 3,
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
 	{
       "name": "Anfora del Pittore di Micali",
-      "id": 4,
+      "position": 4,
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
 	{
       "name": "Cratere in bucchero",
-      "id": 5,
+      "position": 5,
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
 	{
       "name": "Anforetta del gruppo della Tolfa",
-      "id": 6,
+      "position": 6,
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
 	{
       "name": "Capitello con raffigurazione della Fata Melusina",
-      "id": 7,
+      "position": 7,
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
+    }
+  ],
+  "opera": [
+    {
+      "name": "Il polo culturale",
+      "description": "Questa è la descrizione della prima tappa introduttiva al Polo Culturale di Tolfa",
+      "period": "Fine XV secolo",
+      "qrcode": "kjnskdjcnks",
+      "beaconid": "jncnjksd",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
+        "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
+      ]
     }
   ]
 }
