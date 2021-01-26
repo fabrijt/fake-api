@@ -73,13 +73,61 @@
       "name": "Il polo culturale",
       "description": "Questa è la descrizione della prima tappa introduttiva al Polo Culturale di Tolfa",
       "period": "Fine XV secolo",
-      "qrcode": "kjnskdjcnks",
-      "beaconid": "jncnjksd",
+      "qrcode": "1111",
+      "beaconid": "1.1",
       "gallery": [
         "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
         "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
         "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
       ]
+    },
+	{
+      "name": "Calice in bucchero",
+      "description": "Questa è la descrizione della seconda tappa",
+      "period": "Fine XV secolo",
+      "qrcode": "22222",
+      "beaconid": "1.2",
+      "gallery": []
+    },
+	{
+      "name": "Necropoli del Ferrone",
+      "description": "Questa è la descrizione della terza tappa",
+      "period": "Fine XV secolo",
+      "qrcode": "3333",
+      "beaconid": "1.3",
+      "gallery": []
+    },
+	{
+      "name": "Anfora del Pittore di Micali",
+      "description": "Questa è la descrizione della quarta tappa",
+      "period": "Fine XV secolo",
+      "qrcode": "4444",
+      "beaconid": "1.4",
+      "gallery": []
+    },
+	{
+      "name": "Cratere in bucchero",
+      "description": "Questa è la descrizione della quinta tappa",
+      "period": "Fine XV secolo",
+      "qrcode": "5555",
+      "beaconid": "1.5",
+      "gallery": []
+    },
+	{
+      "name": "Anforetta del gruppo della Tolfa",
+      "description": "Questa è la descrizione della sesta tappa",
+      "period": "Fine XV secolo",
+      "qrcode": "55555",
+      "beaconid": "1.6",
+      "gallery": []
+    },
+	{
+      "name": "Capitello con raffigurazione della Fata Melusina",
+      "description": "Questa è la descrizione della settima tappa",
+      "period": "Fine V secolo",
+      "qrcode": "7",
+      "beaconid": "1.7",
+      "gallery": []
     }
   ]
 }
