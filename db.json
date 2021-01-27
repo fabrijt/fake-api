@@ -76,10 +76,19 @@
       "qrCode": "1111",
       "beaconId": "1.1",
       "gallery": [
-        "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg",
-        "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
-      ]
+		{
+			"uri": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg", 
+			"type": "image"
+		},
+		{
+			"uri": "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg", 
+			"type": "image"
+		},
+		{
+			"uri": "https://static.deamoneta.com/auctions/6/img/292D.jpg", 
+			"type": "image"
+		}
+	  ]
     },
 	{
       "name": "Calice in bucchero",
@@ -87,7 +96,20 @@
       "period": "Fine XV secolo",
       "qrCode": "22222",
       "beaconId": "1.2",
-      "gallery": []
+      "gallery": [
+		{
+			"uri": "https://static.deamoneta.com/auctions/6/img/292D.jpg", 
+			"type": "image"
+		},
+		{
+			"uri": "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg", 
+			"type": "image"
+		},
+		{
+			"uri": "https://auctions.bertolamifinearts.com/pics/imgBig/4/15.jpg", 
+			"type": "image"
+		}
+	  ]
     },
 	{
       "name": "Necropoli del Ferrone",
