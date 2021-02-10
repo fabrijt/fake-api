@@ -1,7 +1,7 @@
 {
   "customers": [
     {
-	  "id": "0",
+      "id": "0",
       "name": "Polo culturale di Tolfa",
       "description": "Il Polo Culturale di Tolfa, comprendente il Museo civico archeologico, la biblioteca comunale, l’Archivio storico comunale, il laboratorio di restauro e la sala conferenze, è ospitato nei locali del convento dei Padri Agostiniani, annesso al santuario di Santa Maria della Sughera.",
       "schedule": "Lunedì e Martedì: Chiuso\nMercoledì e Giovedì : 9:00 – 13:00\nVenerdì: 9:00 – 13:00 | 14:00 – 17:00\nSabato: 10:00 – 13:00 | 14:00 – 17:00\nDomenica: 10:00 – 13:00",
@@ -11,7 +11,7 @@
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/e2/de/08/getlstd-property-photo.jpg"
     },
     {
-	  "id": "1",
+      "id": "1",
       "name": "Terme Taurine di Traiano",
       "description": "Il complesso termale delle Terme Taurine sorge a circa 4 km a est della città di Civitavecchia, su un altopiano (altezza massima 192 m s.l.m.) situato lungo la strada per Tolfa e Allumiere. Il complesso acrhitettonico si estende un’area totale di circa 80 x 200 m, con orientamento approssimatamente nord-sud.",
       "schedule": "Aperto dal lunedì al venerdì dalle ore 10:00 alle 18:00",
