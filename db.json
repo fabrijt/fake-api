@@ -22,6 +22,7 @@
     }
   ],
   "0": [
+	{
 	  "paths": [
 		{
 		  "name": "Completo",
@@ -34,8 +35,10 @@
 		  "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
 		}
 	  ]
+	}
   ],
   "1": [
+    {
 	  "paths": [
 		{
 		  "name": "Completo",
@@ -48,6 +51,7 @@
 		  "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
 		}
 	  ]
+	}
   ],
   "steps": [
     {
