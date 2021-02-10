@@ -33,6 +33,30 @@
       "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
     }
   ],
+  "0paths": [
+    {
+      "name": "Completo",
+      "duration": "durata 3 ore",
+      "description": "Tutte le opere del museo, \nse ti piace approfondire."
+    },
+    {
+      "name": "Veloce",
+      "duration": "durata 1 ora",
+      "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
+    }
+  ],
+  "1paths": [
+    {
+      "name": "Completo",
+      "duration": "durata 3 ore",
+      "description": "Tutte le opere del museo, \nse ti piace approfondire."
+    },
+    {
+      "name": "Veloce",
+      "duration": "durata 1 ora",
+      "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
+    }
+  ],
   "steps": [
     {
       "name": "Il polo culturale",
