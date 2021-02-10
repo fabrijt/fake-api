@@ -21,7 +21,7 @@
       "image": "https://1.bp.blogspot.com/-2b5E--rcAAI/XTlfNus6FCI/AAAAAAAAvPA/3JIUmmynmIMf1qdFm8SMawEfa_Y2VtuIwCLcBGAs/s1600/terme-taurine1.jpg"
     }
   ],
-  "0/paths": [
+  "paths": [
     {
       "name": "Completo",
       "duration": "durata 3 ore",
@@ -32,20 +32,7 @@
       "duration": "durata 1 ora",
       "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
     }
-  ],
-  "1/paths": [
-    {
-      "name": "Completo",
-      "duration": "durata 3 ore",
-      "description": "Tutte le opere del museo, \nse ti piace approfondire."
-    },
-    {
-      "name": "Veloce",
-      "duration": "durata 1 ora",
-      "description": "Solo le opere principali, \nse vuoi ottimizzare il tuo tempo."
-    }
-  ],
-  "steps": [
+  ],"steps": [
     {
       "name": "Il polo culturale",
       "position": 1,
