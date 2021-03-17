@@ -105,7 +105,7 @@
       "description": "Questa è la descrizione della seconda tappa",
       "period": "Fine XV secolo",
       "qrCode": "22222",
-      "beaconId": "1.2",
+      "beaconId": "026890",
       "gallery": [
 		    {
 			    "uri": "https://static.deamoneta.com/auctions/6/img/292D.jpg", 
@@ -145,7 +145,7 @@
       "description": "Questa è la descrizione della quarta tappa",
       "period": "Fine XV secolo",
       "qrCode": "4444",
-      "beaconId": "1.4",
+      "beaconId": "026891",
       "gallery": [
 		    {
 			    "uri": "https://www.cittanuova.it/wp-content/uploads/2016/12/1315909995figure_nere_01-720x0-c-default.jpg", 
@@ -181,7 +181,7 @@
       "description": "Questa è la descrizione della sesta tappa",
       "period": "Fine XV secolo",
       "qrCode": "55555",
-      "beaconId": "1.6",
+      "beaconId": "026892",
       "gallery": [
 		    {
 			    "uri": "https://poloculturaletolfa.it/wp/wp-content/gallery/esposizione-museo/anfora-necropoli-ferrone.jpg", 
