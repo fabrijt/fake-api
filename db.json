@@ -89,12 +89,8 @@
 			    "uri": "https://auctions.bertolamifinearts.com/pics/imgBig/74/19.jpg", 
 			    "type": "image"
 		    },
-			  {
-			    "uri": "https://www.musicaememoria.com/docs/audio/01-audiocheck.net_L5s.wav", 
-			    "type": "audio"
-		    },
         {
-			    "uri": "https://www.radiantmediaplayer.com/media/big-buck-bunny-360p.mp4", 
+			    "uri": "https://www.rmp-streaming.com/media/big-buck-bunny-360p.mp4", 
 			    "type": "video"
 		    }
 	    ]
